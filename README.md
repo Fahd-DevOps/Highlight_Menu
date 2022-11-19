@@ -1,4 +1,6 @@
-# Highlight_Menu
+# Highlight_Menu using c
+
+Highlight Menu to add or delete Employee : Menu of Array_Of_Struct
 
 Menu will be like:
 		New
